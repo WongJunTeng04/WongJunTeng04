@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on projects together which can both improve my experience and skills.
 - 📫 How to reach me: Instagram: jay.wong_ or whatsapp:
 - ⚡ Fun fact: I love learning and willing to learn.
-- 👍🏻 I am currently well-versed with Python and Java.
+- 👍🏻 I have learned Java and Python before. Proficiency: 6/10 (Need to refresh memory)
 
 <!---
 WongJunTeng04/WongJunTeng04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
