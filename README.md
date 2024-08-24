@@ -4,7 +4,7 @@
 📝 Call me Jay! Native english-speaker, 20 years old <br/>
 👨🏻‍💻 Studying Software Engineering in Sunway University (Current CGPA: 3.81, Year:3  Sem:1) <br/>
 ❤️‍🔥 I have a passion for learning things <br/>
-📚 Learned: Python, Java // Learning: Kotlin, Scala <br/>
+📚 Learned: Python, Java, Kotlin, Scala // Learning: <br/>
 💭 I have a dream to one day make it big in the world <br/>
 🏢 Situated in Kepong, Kuala Lumpur, MALAYSIA <br/>
 
