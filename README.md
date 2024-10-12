@@ -2,9 +2,9 @@
 ### 👋 Hi, I'm Wong Jun Teng!
 
 📝 Call me Jay! Native english-speaker, 20 years old <br/>
-👨🏻‍💻 Studying Software Engineering in Sunway University (Current CGPA: 3.81, Year:3  Sem:1) <br/>
+👨🏻‍💻 Studying Software Engineering in Sunway University (Current CGPA: 3.80, Year:3  Sem:1) <br/>
 ❤️‍🔥 I have a passion for learning things <br/>
-📚 Learned: Python, Java, Kotlin, Scala, HTML, PHP <br/>
+📚 Learned: Python, Java, Kotlin, Scala, HTML, PHP, CSS and growing! <br/>
 💭 I have a dream to one day make it big in the world <br/>
 🏢 Situated in Kepong, Kuala Lumpur, MALAYSIA <br/>
 
